@@ -22,7 +22,7 @@ class SRC
         System.out.println("the area of the circle is "+z+" sq units");
     }
 }
-class crt
+class FuncofCSR
 {
      public static void main(String args[]) throws IOException
 	{
